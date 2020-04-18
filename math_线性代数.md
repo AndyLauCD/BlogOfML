@@ -1,6 +1,6 @@
 # LINEAR ALGEBRA 线性代数听课笔记
 
-Gilbert Strong的线性代数听课笔记
+Gilbert Strang的线性代数听课笔记
 
 # 1. 线性代数
 
